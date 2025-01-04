@@ -10,7 +10,7 @@
 - **Modular Design**: Each data structure is organized into separate modules for easy exploration and scalability.
 - **Wide Range of Data Structures**:
   - **Linear Structures**: Arrays, Linked Lists, Stacks, Queues
-  - **Non-Linear Structures**: Trees, Graphs, Heaps
+  - **Non-Linear Structures**: Trees, graphs, Heaps
   - **Hashing**: HashMaps, HashSets
   - **Specialized Structures**: Tries, Disjoint Sets (Union-Find), Priority Queues
 - **Algorithms**: Includes common algorithms associated with each data structure (e.g., traversals, searches, shortest paths, sorting).
