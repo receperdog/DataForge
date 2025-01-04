@@ -21,5 +21,6 @@ public class Main {
         Node (Düğüm) 4:  => [2]
         */
 
+
     }
 }

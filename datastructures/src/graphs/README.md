@@ -1,5 +1,3 @@
-Here's the content formatted in Markdown:
-
 # Graph (Graf)
 
 A Graph (Graf) is a data structure (veri yapısı) consisting of Nodes (Düğümler) (often also called vertices) and Edges (Kenarlar) connecting these nodes. Graphs are incredibly useful in modeling relationships where elements are connected in various ways, such as roads between cities, friends on social networks, or links between web pages.
@@ -61,3 +59,4 @@ A Graph (Graf) is a data structure (veri yapısı) consisting of Nodes (Düğüm
 
 	1.	The outer list (dış liste): represents the Nodes (Düğümler).
 	2.	The inner lists (iç listeler): represent the neighbors (bağlı Düğümler) of each node.
+
