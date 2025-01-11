@@ -14,11 +14,11 @@ public class Main {
 
         /*
         OUTPUT:
-        Node (Düğüm) 0:  => [1, 2]
-        Node (Düğüm) 1:  => [0, 3]
-        Node (Düğüm) 2:  => [0, 4]
-        Node (Düğüm) 3:  => [1]
-        Node (Düğüm) 4:  => [2]
+        Graph (Düğüm) 0:  => [1, 2]
+        Graph (Düğüm) 1:  => [0, 3]
+        Graph (Düğüm) 2:  => [0, 4]
+        Graph (Düğüm) 3:  => [1]
+        Graph (Düğüm) 4:  => [2]
         */
 
 

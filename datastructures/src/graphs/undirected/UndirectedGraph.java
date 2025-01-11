@@ -26,7 +26,7 @@ public class UndirectedGraph {
 
     public void printGraph() {
         for(int i = 0 ; i < numberOfNodes; i++) {
-            System.out.print("Node (Düğüm) " + i + ": " + " => ");
+            System.out.print("Graph (Düğüm) " + i + ": " + " => ");
             System.out.println(adjacencyList.get(i));
         }
     }
