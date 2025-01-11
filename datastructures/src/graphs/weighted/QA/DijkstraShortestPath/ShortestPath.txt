@@ -1,0 +1,30 @@
+Problem: Shortest Path in a Weighted Graph
+
+Problem Statement:
+You are given a weighted, directed graph where each edge has a non-negative weight. The graph is represented as an adjacency list, and the goal is to find the shortest path from a source vertex ￼ to all other vertices in the graph.
+
+Input:
+	1.	A graph represented as an adjacency list. Each edge is represented as a tuple: (destination, weight).
+Example:
+
+graph = {
+    0: [(1, 4), (2, 1)],
+    1: [(3, 1)],
+    2: [(1, 2), (3, 5)],
+    3: []
+}
+
+Here:
+	•	Vertex 0 connects to 1 with weight 4, and to 2 with weight 1.
+	•	Vertex 1 connects to 3 with weight 1.
+	•	Vertex 2 connects to 1 with weight 2 and to 3 with weight 5.
+	•	Vertex 3 has no outgoing edges.
+
+	2.	A source vertex ￼. For the example above, let ￼.
+
+Output:
+A list of the shortest distances from ￼ to all vertices. If a vertex is unreachable, its distance should be Infinity (or a very large number).
+
+Tasks:
+	1.	Implement Dijkstra’s Algorithm in Java to solve this problem.
+	2.	Test your implementation with the graph and source vertex provided in the example.
