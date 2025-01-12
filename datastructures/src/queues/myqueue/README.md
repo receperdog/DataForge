@@ -25,3 +25,9 @@ System.out.println(queue.peek());    // Outputs: 2
 System.out.println(queue.size());    // Outputs: 2
 System.out.println(queue.isEmpty()); // Outputs: false
 ```
+## Linked List Visualization
+
+To better understand how the queue operates internally, you can visualize it using a linked list. Here are two different links to visualize linked lists:
+
+- [Visualgo](https://visualgo.net/en/list)
+- [Linked List Visualizer](https://www.cs.usfca.edu/~galles/visualization/QueueArray.html)
